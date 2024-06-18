@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UliMette
+👋 Hi, I’m @UliMette
 
 <!---  
 - 👀 I’m interested in ...
